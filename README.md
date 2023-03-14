@@ -21,14 +21,15 @@ You are given a dataset of a company where the details about people who register
 - Drawing Data Summary
 - After downloading the dataset, use Excel or Google Sheets to answer the below questions:
 
-## Hiring: Process of intaking of people into an organization for different kinds of positions.
-- Your task: How many males and females are Hired ?
-## Average Salary: Adding all the salaries for a select group of employees and then dividing the sum by the number of employees in the group.
-- Your task: What is the average salary offered in this company ?
-## Class Intervals: The class interval is the difference between the upper class limit and the lower class limit.
-- Your task: Draw the class intervals for salary in the company ?
-## Charts and Plots: This is one of the most important part of analysis to visualize the data.
-- Your task: Draw Pie Chart / Bar Graph ( or any other graph ) to show proportion of people working different department ?
-## Charts: Use different charts and graphs to perform the task representing the data.
-- Your task: Represent different post tiers using chart/graph?
+## Tasks:
+- Hiring: Process of intaking of people into an organization for different kinds of positions.
+-- Your task: How many males and females are Hired ?
+- Average Salary: Adding all the salaries for a select group of employees and then dividing the sum by the number of employees in the group.
+-- Your task: What is the average salary offered in this company ?
+- Class Intervals: The class interval is the difference between the upper class limit and the lower class limit.
+-- Your task: Draw the class intervals for salary in the company ?
+- Charts and Plots: This is one of the most important part of analysis to visualize the data.
+-- Your task: Draw Pie Chart / Bar Graph ( or any other graph ) to show proportion of people working different department ?
+- Charts: Use different charts and graphs to perform the task representing the data.
+-- Your task: Represent different post tiers using chart/graph?
 
